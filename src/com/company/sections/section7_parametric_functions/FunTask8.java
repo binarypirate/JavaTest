@@ -1,7 +1,7 @@
 package com.company.sections.section7_parametric_functions;
 
 public class FunTask8 {
-    String[][] USERS = {
+    static String[][] USERS = {
             {"attaullahkhanlodhi@linux.com", "+92-3XX-1234567"},
             {"youmadbro@madness.com", "+1-3XX-1234567"},
             {"lovebirds@peak.com", "+311-3XX-1234567"},
