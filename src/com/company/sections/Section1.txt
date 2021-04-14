@@ -1,0 +1,81 @@
+1. Write names of all DataTypes in Java.
+
+2. Write Names of all primitive DataTypes.
+
+3. Write Names of all Non-Primitive DataTypes.
+
+4. Write 3 Literals of all DataTypes.
+
+5. What is a variable?
+
+6. Write all Arithmetic operators in java?
+
+7. Write all comparison operators in java?
+
+9. Class Names Starts with Capital Letters or Lowercase Letters?
+
+10. How many types of methods are in java?
+
+11. What is Type Casting?
+
+12. What is method overloading?
+
+13. What is the operator of VarArgs?
+
+14. Which TypeCase is Preferred By JavaDevelopers? (camelCase, PascalCase, kebab-case and snake_case)
+
+15. Are hyphens allowed while declaring variable names?
+
+16. Can Variable Name Start with a number?
+
+17. Can Variable Name Start with a underscore.
+
+18. To Make a variable or Object Constant, Which keyword do we use.
+
+19. Write some keyword of java?
+
+20. How many types of loops are in java? Write their names.
+
+21. Which loop is favourite of programmers?
+
+22. Is C Language Object-Oriented?
+
+23. What is Object Oriented Programming?
+
+24. In Java main(String[] args), What is the type of those args variable?
+
+25. How we pass values in java main(String[] args) method?
+
+26. Does void have any return type?
+
+27. Which keyword is used to return some value from a function.
+
+28. What is assignment operator. And how it assigns the value to a variable.
+
+29. What is an expression?
+
+30. Write Syntax of ternary operator?
+
+31. Ternary Operator is also called?
+
+32. What is the difference between .equals() and ==?
+
+33. Write the names of Access Modifiers?
+
+34. What is a new keyword?
+
+35. Can we Access a local variable outside of its body-block?
+
+36. Can we Access a member variable everywhere inside the same class?
+
+37. What break keyword do? And where it is used?
+
+38. What is an infinite loop?
+
+39. How For-Each Loop Works?
+
+40. Can For-Each Loop use break keyword?
+
+41. Using a break keyword in For-Each loop is good or bad?
+
+42. What are the 4 Pillars of Object-Oriented-Programming?
